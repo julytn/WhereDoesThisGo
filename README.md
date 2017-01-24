@@ -1,5 +1,5 @@
 # Where does this go?
-started at UofTHacks 2016
+started at UofTHacks 2016 (MVP finished at Hack The North https://github.com/julytn/HappySort)
 
 Android app that will recognize the image and tell you how to throw it out.
 
